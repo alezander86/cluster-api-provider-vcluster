@@ -1,4 +1,5 @@
 {
+  "kind": "ClusterctlSettings",
   "name": "infrastructure-vcluster",
   "config": {
     "componentsFile": "infrastructure-components.yaml",
